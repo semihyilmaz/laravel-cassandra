@@ -39,7 +39,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1602855899230</updated>
-      <workItem from="1602855900305" duration="1068000" />
+      <workItem from="1602855900305" duration="1198000" />
     </task>
     <task id="LOCAL-00001" summary="ilk yükleme">
       <created>1602856736203</created>
@@ -48,7 +48,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602856736203</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="ilk yükleme">
+      <created>1602856994199</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1602856994199</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -61,14 +68,18 @@
     <option name="LAST_COMMIT_MESSAGE" value="ilk yükleme" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2825" y="104" key="CommitChangelistDialog2" timestamp="1602856735602">
+    <state x="2825" y="104" key="CommitChangelistDialog2" timestamp="1602856993715">
       <screen x="1920" y="0" width="2560" height="1050" />
     </state>
-    <state x="2825" y="104" key="CommitChangelistDialog2/0.0.1920.1050/1920.0.2560.1050@1920.0.2560.1050" timestamp="1602856735602" />
-    <state x="2792" y="258" key="Vcs.Push.Dialog.v2" timestamp="1602856738360">
+    <state x="2825" y="104" key="CommitChangelistDialog2/0.0.1920.1050/1920.0.2560.1050@1920.0.2560.1050" timestamp="1602856993715" />
+    <state x="2976" y="437" key="ComposerInitDialogKey" timestamp="1602856982178">
       <screen x="1920" y="0" width="2560" height="1050" />
     </state>
-    <state x="2792" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1050/1920.0.2560.1050@1920.0.2560.1050" timestamp="1602856738360" />
+    <state x="2976" y="437" key="ComposerInitDialogKey/0.0.1920.1050/1920.0.2560.1050@1920.0.2560.1050" timestamp="1602856982178" />
+    <state x="2792" y="258" key="Vcs.Push.Dialog.v2" timestamp="1602856999844">
+      <screen x="1920" y="0" width="2560" height="1050" />
+    </state>
+    <state x="2792" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1050/1920.0.2560.1050@1920.0.2560.1050" timestamp="1602856999844" />
     <state x="2907" y="258" width="585" height="534" key="find.popup" timestamp="1602856355720">
       <screen x="1920" y="0" width="2560" height="1050" />
     </state>
