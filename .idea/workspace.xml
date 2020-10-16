@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="724b58d9-6696-420f-8abd-a0a9c7d564d8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -25,7 +26,6 @@
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="settings.space" />
@@ -39,7 +39,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1602855899230</updated>
-      <workItem from="1602855900305" duration="1282000" />
+      <workItem from="1602855900305" duration="1561000" />
     </task>
     <task id="LOCAL-00001" summary="ilk yükleme">
       <created>1602856736203</created>
@@ -62,7 +62,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602857136609</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Composer fix">
+      <created>1602857227615</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1602857227615</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -76,18 +83,18 @@
     <option name="LAST_COMMIT_MESSAGE" value="Composer fix" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2825" y="104" key="CommitChangelistDialog2" timestamp="1602857136116">
+    <state x="2825" y="104" key="CommitChangelistDialog2" timestamp="1602857227087">
       <screen x="1920" y="0" width="2560" height="1050" />
     </state>
-    <state x="2825" y="104" key="CommitChangelistDialog2/0.0.1920.1050/1920.0.2560.1050@1920.0.2560.1050" timestamp="1602857136116" />
+    <state x="2825" y="104" key="CommitChangelistDialog2/0.0.1920.1050/1920.0.2560.1050@1920.0.2560.1050" timestamp="1602857227087" />
     <state x="2976" y="437" key="ComposerInitDialogKey" timestamp="1602856982178">
       <screen x="1920" y="0" width="2560" height="1050" />
     </state>
     <state x="2976" y="437" key="ComposerInitDialogKey/0.0.1920.1050/1920.0.2560.1050@1920.0.2560.1050" timestamp="1602856982178" />
-    <state x="2792" y="258" key="Vcs.Push.Dialog.v2" timestamp="1602857138138">
+    <state x="2792" y="258" key="Vcs.Push.Dialog.v2" timestamp="1602857228746">
       <screen x="1920" y="0" width="2560" height="1050" />
     </state>
-    <state x="2792" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1050/1920.0.2560.1050@1920.0.2560.1050" timestamp="1602857138138" />
+    <state x="2792" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1050/1920.0.2560.1050@1920.0.2560.1050" timestamp="1602857228746" />
     <state x="2907" y="258" width="585" height="534" key="find.popup" timestamp="1602856355720">
       <screen x="1920" y="0" width="2560" height="1050" />
     </state>
