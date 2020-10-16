@@ -1,0 +1,32 @@
+{
+    "name": "semy/cassandra",
+    "description": "Cassandra Eloquent model and Query builder for Laravel",
+    "keywords": ["laravel","eloquent","cassandra","database","model"],
+    "homepage": "https:/semihyilmaz.com",
+    "authors": [
+        {
+            "name": "Semih YILMAZ",
+            "homepage": "https://semihyilmaz.com"
+        }
+    ],
+    "license" : "MIT",
+    "require": {
+
+    },
+    "require-dev": {
+
+    },
+    "autoload": {
+        "psr-0": {
+            "semy\\Cassandra": "src/",
+            "semy\\Eloquent": "src/"
+        }
+    },
+    "autoload-dev": {
+        "classmap": [
+            "tests/TestCase.php",
+            "tests/models",
+            "tests/seeds"
+        ]
+    }
+}
