@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="724b58d9-6696-420f-8abd-a0a9c7d564d8" name="Default Changelist" comment="" />
+    <list default="true" id="724b58d9-6696-420f-8abd-a0a9c7d564d8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,7 +23,9 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="settings.space" />
@@ -35,17 +39,43 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1602855899230</updated>
-      <workItem from="1602855900305" duration="773000" />
+      <workItem from="1602855900305" duration="1068000" />
     </task>
+    <task id="LOCAL-00001" summary="ilk yükleme">
+      <created>1602856736203</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602856736203</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="ilk yükleme" />
+    <option name="LAST_COMMIT_MESSAGE" value="ilk yükleme" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="2825" y="104" key="CommitChangelistDialog2" timestamp="1602856735602">
+      <screen x="1920" y="0" width="2560" height="1050" />
+    </state>
+    <state x="2825" y="104" key="CommitChangelistDialog2/0.0.1920.1050/1920.0.2560.1050@1920.0.2560.1050" timestamp="1602856735602" />
+    <state x="2792" y="258" key="Vcs.Push.Dialog.v2" timestamp="1602856738360">
+      <screen x="1920" y="0" width="2560" height="1050" />
+    </state>
+    <state x="2792" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1050/1920.0.2560.1050@1920.0.2560.1050" timestamp="1602856738360" />
     <state x="2907" y="258" width="585" height="534" key="find.popup" timestamp="1602856355720">
       <screen x="1920" y="0" width="2560" height="1050" />
     </state>
     <state x="2907" y="258" width="585" height="534" key="find.popup/0.0.1920.1050/1920.0.2560.1050@1920.0.2560.1050" timestamp="1602856355720" />
+    <state x="3001" y="431" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1602856727839">
+      <screen x="1920" y="0" width="2560" height="1050" />
+    </state>
+    <state x="3001" y="431" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1920.1050/1920.0.2560.1050@1920.0.2560.1050" timestamp="1602856727839" />
   </component>
 </project>
